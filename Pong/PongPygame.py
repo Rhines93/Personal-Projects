@@ -1,3 +1,6 @@
+# Author: Robert Hines
+# February 23, 2020
+
 import pygame
 
 pygame.init()

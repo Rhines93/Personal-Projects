@@ -1,4 +1,4 @@
-# Author: Robert Hines
+# Author: Robert "Tom" Hines
 # February 23, 2020
 
 import pygame
